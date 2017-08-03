@@ -1,0 +1,576 @@
+ 
+==================================================
+ Batch run: 10-Oct-2012 14:44:31
+==================================================
+ 
+reading batch parameters from D:\DATA\R016\neurophys\R016-2012-10-08_recording\Batch.txt
+ 
+==================================================
+ Creating FeatureData files: 
+==================================================
+ 
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT01.ntt:
+RecordSize = 304,  74751 spikes, 22724304 bytes.
+Counting spikes.
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT01.ntt:
+RecordSize = 304,  74751 spikes, 22724304 bytes.
+Counting spikes.
+ 
+Loading 2 blocks.
+ 
+Processing block 1 of 2 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT01.ntt:
+RecordSize = 304,  74751 spikes, 22724304 bytes.
+Getting 37376 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+  Calculating EnergyD1
+ 
+Processing block 2 of 2 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT01.ntt:
+RecordSize = 304,  74751 spikes, 22724304 bytes.
+Getting 37375 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01_Energy.fd as a .mat formatted file
+  Calculating EnergyD1
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01_EnergyD1.fd as a .mat formatted file
+Loading 2 blocks.
+ 
+Processing block 1 of 2 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT01.ntt:
+RecordSize = 304,  74751 spikes, 22724304 bytes.
+Getting 37376 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+  Calculating Valley
+ 
+Processing block 2 of 2 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT01.ntt:
+RecordSize = 304,  74751 spikes, 22724304 bytes.
+Getting 37375 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01_Peak.fd as a .mat formatted file
+  Calculating Valley
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01_Valley.fd as a .mat formatted file
+Loading 2 blocks.
+ 
+Processing block 1 of 2 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT01.ntt:
+RecordSize = 304,  74751 spikes, 22724304 bytes.
+Getting 37376 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+  Calculating Time
+ 
+Processing block 2 of 2 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT01.ntt:
+RecordSize = 304,  74751 spikes, 22724304 bytes.
+Getting 37375 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01_PeakIndex.fd as a .mat formatted file
+  Calculating Time
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01_Time.fd as a .mat formatted file
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT02.ntt:
+RecordSize = 304,  56603 spikes, 17207312 bytes.
+Counting spikes.
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT02.ntt:
+RecordSize = 304,  56603 spikes, 17207312 bytes.
+Counting spikes.
+ 
+Loading 2 blocks.
+ 
+Processing block 1 of 2 : round 1 of 2
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT02.ntt:
+RecordSize = 304,  56603 spikes, 17207312 bytes.
+Getting 28302 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+  Calculating EnergyD1
+  Calculating Peak
+ 
+Processing block 2 of 2 : round 1 of 2
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT02.ntt:
+RecordSize = 304,  56603 spikes, 17207312 bytes.
+Getting 28301 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02_Energy.fd as a .mat formatted file
+  Calculating EnergyD1
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02_EnergyD1.fd as a .mat formatted file
+  Calculating Peak
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02_Peak.fd as a .mat formatted file
+Loading 2 blocks.
+ 
+Processing block 1 of 2 : round 2 of 2
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT02.ntt:
+RecordSize = 304,  56603 spikes, 17207312 bytes.
+Getting 28302 records.
+NT-Header skipped (16384 bytes)
+  Calculating Valley
+  Calculating PeakIndex
+  Calculating Time
+ 
+Processing block 2 of 2 : round 2 of 2
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT02.ntt:
+RecordSize = 304,  56603 spikes, 17207312 bytes.
+Getting 28301 records.
+NT-Header skipped (16384 bytes)
+  Calculating Valley
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02_Valley.fd as a .mat formatted file
+  Calculating PeakIndex
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02_PeakIndex.fd as a .mat formatted file
+  Calculating Time
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02_Time.fd as a .mat formatted file
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Counting spikes.
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Counting spikes.
+ 
+Loading 3 blocks.
+ 
+Processing block 1 of 3 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37390 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+  Calculating EnergyD1
+ 
+Processing block 2 of 3 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37388 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+  Calculating EnergyD1
+ 
+Processing block 3 of 3 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37389 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03_Energy.fd as a .mat formatted file
+  Calculating EnergyD1
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03_EnergyD1.fd as a .mat formatted file
+Loading 3 blocks.
+ 
+Processing block 1 of 3 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37390 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+  Calculating Valley
+ 
+Processing block 2 of 3 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37388 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+  Calculating Valley
+ 
+Processing block 3 of 3 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37389 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03_Peak.fd as a .mat formatted file
+  Calculating Valley
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03_Valley.fd as a .mat formatted file
+Loading 3 blocks.
+ 
+Processing block 1 of 3 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37390 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+  Calculating Time
+ 
+Processing block 2 of 3 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37388 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+  Calculating Time
+ 
+Processing block 3 of 3 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT03.ntt:
+RecordSize = 304,  112167 spikes, 34098768 bytes.
+Getting 37389 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03_PeakIndex.fd as a .mat formatted file
+  Calculating Time
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03_Time.fd as a .mat formatted file
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Counting spikes.
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Counting spikes.
+ 
+Loading 4 blocks.
+ 
+Processing block 1 of 4 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44281 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+  Calculating EnergyD1
+ 
+Processing block 2 of 4 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+  Calculating EnergyD1
+ 
+Processing block 3 of 4 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+  Calculating EnergyD1
+ 
+Processing block 4 of 4 : round 1 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04_Energy.fd as a .mat formatted file
+  Calculating EnergyD1
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04_EnergyD1.fd as a .mat formatted file
+Loading 4 blocks.
+ 
+Processing block 1 of 4 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44281 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+  Calculating Valley
+ 
+Processing block 2 of 4 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+  Calculating Valley
+ 
+Processing block 3 of 4 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+  Calculating Valley
+ 
+Processing block 4 of 4 : round 2 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating Peak
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04_Peak.fd as a .mat formatted file
+  Calculating Valley
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04_Valley.fd as a .mat formatted file
+Loading 4 blocks.
+ 
+Processing block 1 of 4 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44281 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+  Calculating Time
+ 
+Processing block 2 of 4 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+  Calculating Time
+ 
+Processing block 3 of 4 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+  Calculating Time
+ 
+Processing block 4 of 4 : round 3 of 3
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT04.ntt:
+RecordSize = 304,  177121 spikes, 53844784 bytes.
+Getting 44280 records.
+NT-Header skipped (16384 bytes)
+  Calculating PeakIndex
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04_PeakIndex.fd as a .mat formatted file
+  Calculating Time
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04_Time.fd as a .mat formatted file
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT05.ntt:
+RecordSize = 304,  44248 spikes, 13451392 bytes.
+Counting spikes.
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT05.ntt:
+RecordSize = 304,  44248 spikes, 13451392 bytes.
+Counting spikes.
+ 
+Loading 1 blocks.
+ 
+Processing block 1 of 1 : round 1 of 2
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT05.ntt:
+RecordSize = 304,  44248 spikes, 13451392 bytes.
+Getting 44248 records.
+NT-Header skipped (16384 bytes)
+  Calculating Energy
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05_Energy.fd as a .mat formatted file
+  Calculating EnergyD1
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05_EnergyD1.fd as a .mat formatted file
+  Calculating Peak
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05_Peak.fd as a .mat formatted file
+Loading 1 blocks.
+ 
+Processing block 1 of 1 : round 2 of 2
+NT-Header skipped (16384 bytes)
+Reading file R016-2012-10-08-TT05.ntt:
+RecordSize = 304,  44248 spikes, 13451392 bytes.
+Getting 44248 records.
+NT-Header skipped (16384 bytes)
+  Calculating Valley
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05_Valley.fd as a .mat formatted file
+  Calculating PeakIndex
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05_PeakIndex.fd as a .mat formatted file
+  Calculating Time
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05_Time.fd as a .mat formatted file
+ 
+==================================================
+ Splitting FeatureData files: 
+==================================================
+ 
+ 
+==================================================
+ Creating FeatureData files for KlustaKwik: 
+==================================================
+ 
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01.fd as a .mat formatted file
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02.fd as a .mat formatted file
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03.fd as a .mat formatted file
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04.fd as a .mat formatted file
+ Wrote D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05.fd as a .mat formatted file
+ 
+==================================================
+ run KlustaKwik on FeatureData files: 
+==================================================
+ 
+KlustaKwikPath undefined, using D:\Users\mvdmlab\My_Documents\code\vandermeerlab\util\MClust-3.5\KlustaKwik\KlustaKwik.exe
+ 
+D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01
+Number of spikes: 74751
+FileBase	D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT01 
+ElecNo	1 
+MinClusters	20 
+MaxClusters	30 
+MaxPossibleClusters	30 
+nStarts	1 
+RandomSeed	1 
+Debug	0 
+Verbose	1 
+UseFeatures	11111111 
+PenaltyMix	0.000000 
+DistDump	0 
+DistThresh	6.907755 
+FullStepEvery	10 
+ChangedThresh	0.050000 
+Log	1 
+Screen	1 
+MaxIter	500 
+StartCluFile	 
+fSaveModel	1 
+SplitEvery	50 
+help	0 
+nFeatures=8 
+Loaded 74751 data points of dimension 8. 
+That took 920.515000 seconds. 
+
+ 
+D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02
+Number of spikes: 56603
+FileBase	D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT02 
+ElecNo	1 
+MinClusters	10 
+MaxClusters	15 
+MaxPossibleClusters	15 
+nStarts	1 
+RandomSeed	1 
+Debug	0 
+Verbose	1 
+UseFeatures	111111 
+PenaltyMix	0.000000 
+DistDump	0 
+DistThresh	6.907755 
+FullStepEvery	10 
+ChangedThresh	0.050000 
+Log	1 
+Screen	1 
+MaxIter	500 
+StartCluFile	 
+fSaveModel	1 
+SplitEvery	50 
+help	0 
+nFeatures=6 
+Loaded 56603 data points of dimension 6. 
+That took 6.724000 seconds. 
+
+ 
+D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03
+Number of spikes: 112167
+FileBase	D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT03 
+ElecNo	1 
+MinClusters	10 
+MaxClusters	15 
+MaxPossibleClusters	15 
+nStarts	1 
+RandomSeed	1 
+Debug	0 
+Verbose	1 
+UseFeatures	111111 
+PenaltyMix	0.000000 
+DistDump	0 
+DistThresh	6.907755 
+FullStepEvery	10 
+ChangedThresh	0.050000 
+Log	1 
+Screen	1 
+MaxIter	500 
+StartCluFile	 
+fSaveModel	1 
+SplitEvery	50 
+help	0 
+nFeatures=6 
+Loaded 112167 data points of dimension 6. 
+That took 374.574000 seconds. 
+
+ 
+D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04
+Number of spikes: 177121
+FileBase	D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT04 
+ElecNo	1 
+MinClusters	10 
+MaxClusters	15 
+MaxPossibleClusters	15 
+nStarts	1 
+RandomSeed	1 
+Debug	0 
+Verbose	1 
+UseFeatures	1111 
+PenaltyMix	0.000000 
+DistDump	0 
+DistThresh	6.907755 
+FullStepEvery	10 
+ChangedThresh	0.050000 
+Log	1 
+Screen	1 
+MaxIter	500 
+StartCluFile	 
+fSaveModel	1 
+SplitEvery	50 
+help	0 
+nFeatures=4 
+Loaded 177121 data points of dimension 4. 
+
+ 
+D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05
+Number of spikes: 44248
+FileBase	D:\DATA\R016\neurophys\R016-2012-10-08_recording\FD\R016-2012-10-08-TT05 
+ElecNo	1 
+MinClusters	20 
+MaxClusters	30 
+MaxPossibleClusters	30 
+nStarts	1 
+RandomSeed	1 
+Debug	0 
+Verbose	1 
+UseFeatures	11111111 
+PenaltyMix	0.000000 
+DistDump	0 
+DistThresh	6.907755 
+FullStepEvery	10 
+ChangedThresh	0.050000 
+Log	1 
+Screen	1 
+MaxIter	500 
+StartCluFile	 
+fSaveModel	1 
+SplitEvery	50 
+help	0 
+nFeatures=8 
+Loaded 44248 data points of dimension 8. 
+That took 19.749000 seconds. 
+
+ 
+ 
+ 
+==================================================
+ End of Batch run: 10-Oct-2012 15:18:04
+ Run Duration: 0.55931
+ Time for KlustaKwik run: 0.55162
+==================================================
+ 
